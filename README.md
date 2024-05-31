@@ -31,8 +31,8 @@ ERC20 Contract
 ## Install
 
 ```
-git clone https://github.com/zubyoha/foundry-erc20
-cd foundry-erc20
+git clone https://github.com/zubyoha/erc20-token-contract
+cd erc20-token-contract
 forge install 
 forge build
 ```
